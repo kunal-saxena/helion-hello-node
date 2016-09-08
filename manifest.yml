@@ -1,4 +1,8 @@
+---
+# We have created a temporary app in the gallery
+# We have created a delivery pipeline
 applications:
-- name: helion-hello-node
-  description : Simple Hello World node app
-  mem: 256M
+# We have reserved a name/route for your app
+- name: test-again
+  host: test-again
+  domain: kunal.domain.com.sitikantha.stacktest.io
